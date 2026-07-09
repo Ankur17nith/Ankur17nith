@@ -61,3 +61,8 @@
   </tr>
 </table>
 
+## Projects
+* [PortfolioDex](https://github.com/Ankur17nith/PortfolioDex) - a Pokemon-themed developer portfolio powered by Three.js, GSAP, and Anime.js
+* [snip](https://github.com/Ankur17nith/snip) - Short links with click tracking, geo analytics (country/city), expiry dates, React dashboard with line + bar charts showing click data over time.
+
+
