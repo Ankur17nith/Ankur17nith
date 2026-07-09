@@ -7,7 +7,7 @@
   Currently working on full-stack projects.
 </p>
 
-- Currently I'm working on **Snip**
+- Currently I'm working on **Snip** and **ChatterBall**
 - Currently I'm learning **TypeScript**
 - Looking to collaborate on **[Open Source Projects]**
 
@@ -61,8 +61,11 @@
   </tr>
 </table>
 
+<hr>
+
 ## Projects
 * [PortfolioDex](https://github.com/Ankur17nith/PortfolioDex) - a Pokemon-themed developer portfolio powered by Three.js, GSAP, and Anime.js
-* [snip](https://github.com/Ankur17nith/snip) - Short links with click tracking, geo analytics (country/city), expiry dates, React dashboard with line + bar charts showing click data over time.
+* [snip](https://github.com/Ankur17nith/snip) - Short links with click tracking, geo analytics (country/city), expiry dates, React dashboard with line + bar charts showing click data over time.(Under Development)
+* [ChatterBall](https://github.com/Ankur17nith/ChatterBall)-Real time chat with rooms, private messages, typing indicators, online presence tracking. Message history in MongoDB. Clean React chat UI.(Under Development)
 
 
