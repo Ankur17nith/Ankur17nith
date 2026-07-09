@@ -8,7 +8,7 @@
 </p>
 
 - Currently I'm working on **Snip**
-- Currently I'm learning **TyprScript**
+- Currently I'm learning **TypeScript**
 - Looking to collaborate on **[Open Source Projects]**
 
 ---
