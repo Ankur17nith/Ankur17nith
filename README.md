@@ -8,7 +8,7 @@
 </p>
 
 - Currently I'm working on **Snip** and **ChatterBall**
-- Currently I'm learning **TypeScript**
+- Currently I'm learning **Nextjs**
 - Looking to collaborate on **[Open Source Projects]**
 
 ---
@@ -18,8 +18,8 @@
   <tr>
     <td valign="top" width="120px"><b>Languages</b></td>
     <td>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JS" />
-      <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" /> -->
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
