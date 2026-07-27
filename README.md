@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 <p>
-  I am a developer learning core backend concepts a.
+  I am a developer learning core backend concepts .
   I focus on building scalable web applications and exploring low-level concepts. 
   Currently working on full-stack projects.
 </p>
