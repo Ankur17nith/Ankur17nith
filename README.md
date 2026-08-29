@@ -65,7 +65,8 @@
 <hr>
 
 ## Projects
-* [PortfolioDex](https://github.com/Ankur17nith/PortfolioDex) - a Pokemon-themed developer portfolio powered by Three.js, GSAP, and Anime.js
+* [PortfolioDex](https://github.com/Ankur17nith/PortfolioDex) - A Pokemon-themed developer portfolio powered by Three.js, GSAP, and Anime.js
+* [TT_TRACKER](https://github.com/itzzadi04/TT_TRACKER) - A production-grade, authoritative academic timetable management and conflict-resolution platform
 * [snip](https://github.com/Ankur17nith/snip) - Short links with click tracking, geo analytics (country/city), expiry dates, React dashboard with line + bar charts showing click data over time.(Under Development)
 * [ChatterBall](https://github.com/Ankur17nith/ChatterBall)-Real time chat with rooms, private messages, typing indicators, online presence tracking. Message history in MongoDB. Clean React chat UI.(Under Development)
 
